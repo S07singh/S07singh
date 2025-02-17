@@ -1,8 +1,8 @@
-# 🚀 Sudhir Kumar Singh
+#  Hey! Nice to see you
 
 ### 👨‍💻 Full-Stack Developer | MERN Stack | AI & ML Enthusiast
 
-Hi! I'm Sudhir Kumar Singh, a passionate Full-Stack Developer with expertise in the **MERN stack** and a strong foundation in **AI/ML**. I love building scalable web applications, optimizing backend performance, and exploring AI-powered solutions.
+Hi! I'm Sudhir Kumar Singh, a passionate Full-Stack Developer with expertise in the **MERN stack**. I love building scalable web applications, optimizing backend performance, and exploring AI-powered solutions.
 
 ## 🛠️ Tech Stack & Skills
 
