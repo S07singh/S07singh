@@ -1,5 +1,7 @@
 # 👨‍💻 Sudhir Kumar Singh
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/sudhirsingh_27?logo=twitter&style=for-the-badge)](https://twitter.com/sudhirsingh_27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sudhir-singh867)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/sudhir_27)
@@ -18,7 +20,7 @@
 ## 💼 About Me
 
 🎓 I'm pursuing B.Tech in **Artificial Intelligence and Data Science**.  
-🧠 I work with full-stack technologies (MERN) and dive deep into **Data Science tools and concepts**.  
+🧠 I work with full-stack technologies (MERN) and explore **Data Science tools**.  
 🌍 Open to remote internships and freelance projects in **Data Science**, **Web Development**, and **AI**.
 
 ---
@@ -26,18 +28,31 @@
 ## 🛠️ Tech Stack
 
 ### 📊 Data Tools & Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+### 🤖 AI / LLM Tools
+[![LangChain](https://img.shields.io/badge/LangChain-1E88E5?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-9C27B0?style=for-the-badge&logo=graphql&logoColor=white)](https://www.langchain.com/langgraph)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![LLMs](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=apachecassandra&logoColor=white)](https://huggingface.co/)
+
+### 📊 ML Libraries
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-008000?style=for-the-badge)](https://xgboost.readthedocs.io/)
+
 ### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
