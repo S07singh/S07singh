@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Science+%7C+ML+%7C+Deep+Learning;LLMs+%7C+LangChain+%7C+AI+Engineering;3rd+Year+AI+%26+DS+@+DYPIEMR+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Science+%7C+ML+%7C+Deep+Learning;LLMs+%7C+LangChain+%7C+AI+Engineering;Final+Year+AI+%26+DS+@+DYPIEMR+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@ class SudhirSingh:
         self.role        = "Aspiring AI Engineer & Data Scientist"
         self.degree      = "B.E. — Artificial Intelligence & Data Science"
         self.college     = "DYPIEMR, India"
-        self.year        = "3rd Year"
+        self.year        = "Final Year"
         self.focus       = ["Machine Learning", "Deep Learning",
                             "LLMs", "Data Science", "MLOps"]
         self.stack       = ["Python", "TensorFlow", "PyTorch",
